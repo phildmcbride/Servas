@@ -1,0 +1,16 @@
+Hello!
+
+As a candidate for the technical director position, I'd like to give you a simple programming test. Please spend about an hour on it, and turn it in as soon as possible as we want to hire someone soon.
+
+Programming challenge:
+
+Write a PHP Program that reads a text file, counts the occurrence of certain words ('dog', 'cat', 'jump') in the text file, and then outputs a list of the words next to the number of occurrences in the text file
+
+(Example:
+Dog 5
+Cat 4
+Jump 4)
+
+You can turn it in by emailing me the php file, or preferably, putting the file on github.
+
+Because of your late application to the position, I would recommend completing the test within the day.
