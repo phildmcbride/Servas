@@ -11,8 +11,17 @@ This program will count the number of times these words appear in the
 file hello:  "the" , "I", and "occur".
 </h3>
 
+<h3>Type the word you would like to search for below</h3>
+
+<!--  <field???></field><submit???</submit type=post name=submit> -->
+
+
+
+
 
 <?php 
+
+
 
 /*This program will count the number of times certain words appear in the 
 file hello.  It is written to be run in your browser. */
